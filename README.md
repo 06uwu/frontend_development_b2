@@ -39,12 +39,11 @@ responsive
 https://www.culy.nl/
 
   #### Screenshot(s) van de eerste pagina (small screen): 
-  hier de naam van de pagina  
-  <img src="images/scherm1" width="375px" alt="scherm 1">
+home  <img src="images/scherm1.png" width="375px" alt="scherm 1 home">
 
   #### Screenshot(s) van de tweede pagina (small screen):
-  hier de naam van de pagina  
-  <img src="scherm2" width="375px" alt="scherm 2">
+recepten pagina
+  <img src="images/scherm2.png" width="375px" alt="scherm 2 contact">
  
 </details>
 
@@ -57,6 +56,9 @@ https://www.culy.nl/
 
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen:
+  In teksten was het soms niet mogelijk om de hele zin vloeiend te lezen, dit kwam door stukjes in de tekst die bold waren.
+
+  Linkjes van social media waren niet duidelijk, ze waren een image zonder alt tekst waarschijnlijk. Hierdoor kon je niet direct naar de social media websites.
 
 </details>
 
